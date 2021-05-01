@@ -24,7 +24,7 @@ module.exports = class quickdelete extends Plugin {
           className: classes.button,
           onClick: () =>{
             const API_DELETE_URL = `https://discord.com/api/v9/channels/${channelid}/messages/${messageid}`;
-            resp = await fetch(API_DELETE_URL, {
+            await fetch(API_DELETE_URL, {
                         headers,
                         method: 'DELETE'
             });
@@ -35,7 +35,7 @@ module.exports = class quickdelete extends Plugin {
           src: '/assets/e4d52f4d69d7bba67e5fd70ffe26b70d.svg'
         })
       ));
-      return resp;
+      return res;
     });
     MiniPopover.default.displayName = 'MiniPopover';
   }

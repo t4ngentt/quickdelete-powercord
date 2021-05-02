@@ -1,7 +1,7 @@
 {
   "name": "quickdelete",
-  "version": "1.0.1",
-  "description": "delete go brrrrr",
-  "author": "TaNGENT",
+  "version": "1.0.0",
+  "description": "A much quicker way to delete discord messages",
+  "author": "tAngent",
   "license": "MIT"
 }

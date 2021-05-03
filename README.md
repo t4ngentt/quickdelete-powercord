@@ -1,7 +1,7 @@
 # quickdelete-powercord
 a MUCH faster way to delete a message
 
-#### Inspired by [cyynthia's](https://github.com/cyyynthia "cyynthia's") 'quickstar' plugin. <br />
+#### Inspired by [cyynthia's](https://github.com/cyyynthia "cyynthia's") [quickstar]("https://github.com/powercord-community/quickstar") plugin. <br />
 for edgelords who like to delete their 'cursed' jokes a second after sending them <br />
 or people like me, who just regret sending stuff as soon as its sent <br />
 or evil mods who just delete every single thing
